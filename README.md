@@ -1,4 +1,7 @@
-Greeting for now.
+Hello for now or else for not.
+#Git essentials / Git for everybody
+this is a course to teach you how  to use everyday Git
+
 
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
@@ -56,4 +59,4 @@ ls -la
 
 
 =======
->>>>>>> 52a7d81603bf0f5b0b9009e9345e46937a2ee091
+>>>>>>> 52a7d81603bf0f5b0b9009e9345e46937
